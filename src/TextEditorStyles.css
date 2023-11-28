@@ -1,0 +1,28 @@
+/* TextEditorStyles.css */
+.quill .ql-editor img {
+  max-width: 95%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.text-editor-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f0f2f5; /* Light background for the container */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.button {
+  /* font-size: 19px; */
+  background-color: #34495E; /* A color that stands out but complements the background */
+  /* border-color: #5cabff; */
+  color: white;
+  border-radius: 10px; /* Rounded button edges */
+  /* padding: 10px 20px; */
+  font-family: 'Lato', sans-serif;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.2);
+  /* height: 6vh; */
+}
+
